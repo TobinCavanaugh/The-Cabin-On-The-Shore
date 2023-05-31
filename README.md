@@ -1,9 +1,16 @@
 # The-Cabin-On-The-Shore
-A short semi horror game
+#### A short atmospheric semi horror walking simulator
 
+## Gameplay
+Its basic WASD movement, I didn't program in controller support so it probably isn't functional.
+This game is a walking simulator!
+
+## Retrospective
 This is a short horror game I made back in December of 2021, I never got around to fully releasing it, but it's done finally.
-
 I wanted to focus a lot on establishing a believable environment, and doing a lot more work with sounds at the time. I think I managed to establish a good tone and visual style, though it is a bit dark, literally not figuratively.
+
+## Motivation
+This was when I making this I was just coming off of failing to complete a larger and more grandiose project, granted I didn't get far in (I'm sensing a theme here). I really liked the visual style I got, and I nailed the environment vibes. The jumpscare in this game was kinda just inserted in, I think thats one of my weaker points, doing the release of the tension. I enjoyed working on this project though, it's very satisfying to complete projects like this.
 
 ## Screenshots
 ![Image of a cabin in the woods](https://raw.githubusercontent.com/TobinCavanaugh/The-Cabin-On-The-Shore/main/images/cabin.png)
